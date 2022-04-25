@@ -12,7 +12,7 @@ CREATE TABLE employee (
 );
 
 
-CREATE TABLE roles (
+CREATE TABLE role (
   role_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(30) NOT NULL,
   salary decimal(9,2) NOT NULL,

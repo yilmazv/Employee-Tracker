@@ -14,9 +14,7 @@ VALUES ('Project Manager', 60000, 1),
        ('Full Stack Dev', 100000, 2),
        ('Lawyer', 200000, 4),
 
-
-
-INSERT INTO role (dept_name)
+INSERT INTO department (dept_name)
 VALUES ('Human Resources'),
        ('Softwaree'),
        ('Marketing'),
